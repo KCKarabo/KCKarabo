@@ -49,7 +49,7 @@ I believe great technology isn't just smart — it’s inclusive, empathetic, an
 
 Languages:
 
-JavaScript, Python, PHP, HTML, CSS, SQL
+JavaScript, Python, PHP, HTML, CSS, SQL, Java(Beginner Level)
 
 Frontend:
 
