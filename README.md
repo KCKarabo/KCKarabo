@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Karabo Mokwana
 
-<!--
+<!-
 **KCKarabo/KCKarabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a passionate aspiring Software Developer and AI Enthusiast focused on building impactful, intelligent, and user-friendly solutions. My work blends cutting-edge AI technologies with thoughtful design to address real-world challenges — especially in mental health, education, and social justice.
