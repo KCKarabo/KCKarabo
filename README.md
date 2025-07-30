@@ -45,3 +45,33 @@ Ethical, open-source AI tools and solutions
 
 I believe great technology isn't just smart — it’s inclusive, empathetic, and beautifully designed. 🌍✨
 
+💻 Tech Stack
+
+Languages:
+
+JavaScript, Python, PHP, HTML, CSS, SQL
+
+Frontend:
+
+React, Tailwind CSS, Bootstrap
+
+Backend:
+
+Laravel, Node.js, Express.js
+
+Databases:
+
+MySQL, Firebase(Still Learning), MongoDB(Beginner Level)
+
+AI / ML / NLP Tools:
+
+OpenAI API (ChatGPT), Hugging Face Transformers, AIF360, scikit-learn, TensorFlow (beginner level)
+
+Version Control & Deployment:
+
+Git, GitHub, Vercel
+
+Tools & Platforms:
+
+Figma, Pycharm, VS Code, Netbeans
+
