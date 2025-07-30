@@ -7,11 +7,13 @@ I'm a passionate aspiring Software Developer and AI Enthusiast focused on buildi
 
 👤 About Me
 🎓 Information Technology: Intelligent Industrial Systems Graduate
+
 💼 Currently working as an IT Support Intern at CAPACITI (UVU Africa)
 
 🔭 Currently Working On:
 🧠 Smart Mental Wellness Assistant
 An AI-powered platform combining computer vision, emotion detection, and mood tracking for mental well-being.
+
 📚 Adaptive Learning Assistant
 An intelligent tutor that personalizes learning paths using reinforcement learning and content-based recommendations.
 
